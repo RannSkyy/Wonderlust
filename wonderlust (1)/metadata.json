@@ -1,0 +1,6 @@
+{
+  "name": "Wonderlust",
+  "description": "An elegant and luxury travel landing page featuring high-end resort booking experiences and scenic travel destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
